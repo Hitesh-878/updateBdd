@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="9" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-19T22:33:08 IST" name="Default suite" finished-at="2022-01-19T22:42:20 IST" duration-ms="552749">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.mindtree.runner.BDDTestRunner@52102734]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2022-01-19T22:33:08 IST" name="Default test" finished-at="2022-01-19T22:42:20 IST" duration-ms="552749">
+      <class name="com.mindtree.runner.BDDTestRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.mindtree.runner.BDDTestRunner@52102734]" started-at="2022-01-19T22:33:08 IST" name="setUpClass" finished-at="2022-01-19T22:33:12 IST" duration-ms="4690" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2bab618]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.mindtree.runner.BDDTestRunner@52102734]" started-at="2022-01-19T22:33:12 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-01-19T22:35:52 IST" duration-ms="160020" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["corporate car rental page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Corporate car rental]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.mindtree.runner.BDDTestRunner@52102734]" started-at="2022-01-19T22:35:52 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-01-19T22:36:58 IST" duration-ms="65932" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["selecting chen-trl in in onewaycab"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Oneway cab page]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.mindtree.runner.BDDTestRunner@52102734]" started-at="2022-01-19T22:36:58 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-01-19T22:37:40 IST" duration-ms="41141" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validating With valid Email And Password"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Log in Validation]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.mindtree.runner.BDDTestRunner@52102734]" started-at="2022-01-19T22:37:40 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-01-19T22:38:27 IST" duration-ms="47878" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["signout application"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[signout app]"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="com.mindtree.exceptions.ReusableComponentException">
+            <message>
+              <![CDATA[img is not able clicked in page img]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[com.mindtree.exceptions.ReusableComponentException: img is not able clicked in page img
+at com.mindtree.reusableComponents.WebDriverSupport.click(WebDriverSupport.java:22)
+at com.mindtree.pageObject.Signout.SignOut(Signout.java:35)
+at com.mindtree.stepDefinitions.SignoutStepDef.click_on_sign_out_in_so(SignoutStepDef.java:59)
+at ✽.click on sign out in so(file:///C:/Users/DELL/Desktop/COMPREHENSIVE%20ASSESMENTS/Comprehensive%20assesments/Comprehensive_Assesment-Bdd-main/Features/Signout.feature:9)
+]]>
+            </full-stacktrace>
+          </exception> <!-- com.mindtree.exceptions.ReusableComponentException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.mindtree.runner.BDDTestRunner@52102734]" started-at="2022-01-19T22:38:27 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-01-19T22:39:17 IST" duration-ms="49872" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["selecting car in airport"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[airport book]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.mindtree.runner.BDDTestRunner@52102734]" started-at="2022-01-19T22:39:17 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-01-19T22:39:50 IST" duration-ms="32312" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verify download app"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[download app]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.mindtree.runner.BDDTestRunner@52102734]" started-at="2022-01-19T22:39:50 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-01-19T22:40:27 IST" duration-ms="37345" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["selecting car in local"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[local book]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.mindtree.runner.BDDTestRunner@52102734]" started-at="2022-01-19T22:40:27 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-01-19T22:41:08 IST" duration-ms="41353" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["selecting car in outstation"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Outstation book]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.mindtree.runner.BDDTestRunner@52102734]" started-at="2022-01-19T22:41:08 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-01-19T22:41:54 IST" duration-ms="45451" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["selecting car in roundtrip"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[roundtrip book]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.mindtree.runner.BDDTestRunner@52102734]" started-at="2022-01-19T22:41:54 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-01-19T22:42:20 IST" duration-ms="26542" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["validate the page title"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Validate Page]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.mindtree.runner.BDDTestRunner@52102734]" started-at="2022-01-19T22:42:20 IST" name="tearDownClass" finished-at="2022-01-19T22:42:20 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.mindtree.runner.BDDTestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

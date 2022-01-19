@@ -1,0 +1,77 @@
+2022-01-19 22:34:48,749  INFO [main] outstationStepDef:14 - URL Opened
+2022-01-19 22:34:54,436  INFO [main] outstationStepDef:14 - car rental is clicked in page rental
+2022-01-19 22:35:03,441  INFO [main] outstationStepDef:14 - name is clicked in page name
+2022-01-19 22:35:05,192  INFO [main] outstationStepDef:14 - name is send in page name
+2022-01-19 22:35:06,749  INFO [main] outstationStepDef:14 - company name is clicked in page compname
+2022-01-19 22:35:08,081  INFO [main] outstationStepDef:14 - company name is send in page compname
+2022-01-19 22:35:10,126  INFO [main] outstationStepDef:14 - email is clicked in page email
+2022-01-19 22:35:11,870  INFO [main] outstationStepDef:14 - email is send in page email
+2022-01-19 22:35:13,224  INFO [main] outstationStepDef:14 - phone no is clicked in page phoneno
+2022-01-19 22:35:14,668  INFO [main] outstationStepDef:14 - phone no is send in page phoneno
+2022-01-19 22:35:17,014  INFO [main] outstationStepDef:14 - submit is clicked in page submit
+2022-01-19 22:35:38,469  INFO [main] outstationStepDef:14 - result detail shown 
+2022-01-19 22:35:41,838  INFO [main] outstationStepDef:14 - home page is clicked in page home page
+2022-01-19 22:36:22,957  INFO [main] validpageStepDef:14 - URL Opened
+2022-01-19 22:36:25,799  INFO [main] validpageStepDef:14 - One way cab is clicked in page onewaycab
+2022-01-19 22:36:40,098  INFO [main] validpageStepDef:14 - chennaitab is clicked in page chennai
+2022-01-19 22:36:45,000  INFO [main] validpageStepDef:14 - trl is clicked in page trl
+2022-01-19 22:36:56,711  INFO [main] validpageStepDef:14 - home page is clicked in page home page
+2022-01-19 22:37:21,089  INFO [main] validpageStepDef:14 - URL Opened
+2022-01-19 22:37:23,147  INFO [main] validpageStepDef:14 - signin is clicked in page home page
+2022-01-19 22:37:31,114  INFO [main] validpageStepDef:14 - Email field is send in page Account Log in
+2022-01-19 22:37:32,009  INFO [main] validpageStepDef:14 - password field is send in page Account Log in
+2022-01-19 22:37:33,741  INFO [main] validpageStepDef:14 - sign in button is clicked in page Account Log in
+2022-01-19 22:37:35,610  INFO [main] validpageStepDef:14 - Successfully logged in
+2022-01-19 22:38:14,719  INFO [main] outstationStepDef:14 - URL Opened
+2022-01-19 22:38:16,217  INFO [main] outstationStepDef:14 - signin is clicked in page home page
+2022-01-19 22:38:22,506  INFO [main] outstationStepDef:14 - Email field is send in page Account Log in
+2022-01-19 22:38:23,384  INFO [main] outstationStepDef:14 - password field is send in page Account Log in
+2022-01-19 22:38:24,288  INFO [main] outstationStepDef:14 - sign in button is clicked in page Account Log in
+2022-01-19 22:38:25,276 ERROR [main] outstationStepDef:21 - img is not able clicked in page img
+2022-01-19 22:38:43,943  INFO [main] validpageStepDef:14 - URL Opened
+2022-01-19 22:38:45,794  INFO [main] validpageStepDef:14 - airport button is clicked in page Home Page
+2022-01-19 22:38:47,761  INFO [main] validpageStepDef:14 - from bar is clicked in page airport Page
+2022-01-19 22:38:48,838  INFO [main] validpageStepDef:14 - from Bar is send in page airport Page
+2022-01-19 22:38:50,104  INFO [main] validpageStepDef:14 - from is clicked in page Airport Page
+2022-01-19 22:38:51,799  INFO [main] validpageStepDef:14 - dropaddress is clicked in page address
+2022-01-19 22:38:52,769  INFO [main] validpageStepDef:14 - dropaddress is send in page address
+2022-01-19 22:38:58,257  INFO [main] validpageStepDef:14 - dropaddress is clicked in page address
+2022-01-19 22:39:02,478  INFO [main] validpageStepDef:14 - selected is clicked in page select
+2022-01-19 22:39:06,011  INFO [main] validpageStepDef:14 - select car is clicked in page select
+2022-01-19 22:39:13,322  INFO [main] validpageStepDef:14 - booking detail shown 
+2022-01-19 22:39:14,451  INFO [main] validpageStepDef:14 - home page is clicked in page home page
+2022-01-19 22:39:33,273  INFO [main] downloadappStepDef:14 - URL Opened
+2022-01-19 22:39:35,065  INFO [main] downloadappStepDef:14 - playstore is clicked in page playstore
+2022-01-19 22:39:47,157  INFO [main] downloadappStepDef:14 - playsrore detail shown 
+2022-01-19 22:39:48,268  INFO [main] downloadappStepDef:14 - home page is clicked in page home page
+2022-01-19 22:40:08,353  INFO [main] validpageStepDef:14 - URL Opened
+2022-01-19 22:40:10,366  INFO [main] validpageStepDef:14 - local is clicked in page local
+2022-01-19 22:40:11,871  INFO [main] validpageStepDef:14 - from place is clicked in page from
+2022-01-19 22:40:13,751  INFO [main] validpageStepDef:14 - place is send in page from
+2022-01-19 22:40:17,327  INFO [main] validpageStepDef:14 - selected is clicked in page select
+2022-01-19 22:40:20,493  INFO [main] validpageStepDef:14 - time is clicked in page time
+2022-01-19 22:40:22,157  INFO [main] validpageStepDef:14 - select car is clicked in page select
+2022-01-19 22:40:23,520  INFO [main] validpageStepDef:14 - booking detail shown 
+2022-01-19 22:40:25,044  INFO [main] validpageStepDef:14 - home page is clicked in page home page
+2022-01-19 22:40:45,515  INFO [main] outstationStepDef:14 - URL Opened
+2022-01-19 22:40:46,983  INFO [main] outstationStepDef:14 - from place is clicked in page from
+2022-01-19 22:40:48,299  INFO [main] outstationStepDef:14 - place is send in page from
+2022-01-19 22:40:50,032  INFO [main] outstationStepDef:14 - place is clicked in page to
+2022-01-19 22:40:51,926  INFO [main] outstationStepDef:14 - place is send in page to
+2022-01-19 22:40:53,144  INFO [main] outstationStepDef:14 - place is clicked in page to
+2022-01-19 22:40:59,247  INFO [main] outstationStepDef:14 - selected is clicked in page select
+2022-01-19 22:41:01,711  INFO [main] outstationStepDef:14 - Successfully verified
+2022-01-19 22:41:05,101  INFO [main] outstationStepDef:14 - home page is clicked in page home page
+2022-01-19 22:41:25,271  INFO [main] validpageStepDef:14 - URL Opened
+2022-01-19 22:41:29,009  INFO [main] validpageStepDef:14 - round is clicked in page round
+2022-01-19 22:41:30,337  INFO [main] validpageStepDef:14 - from place is clicked in page from
+2022-01-19 22:41:31,888  INFO [main] validpageStepDef:14 - place is send in page from
+2022-01-19 22:41:33,234  INFO [main] validpageStepDef:14 - place is clicked in page to
+2022-01-19 22:41:35,372  INFO [main] validpageStepDef:14 - place is send in page to
+2022-01-19 22:41:36,846  INFO [main] validpageStepDef:14 - place is clicked in page to
+2022-01-19 22:41:42,828  INFO [main] validpageStepDef:14 - selected is clicked in page select
+2022-01-19 22:41:46,449  INFO [main] validpageStepDef:14 - select car is clicked in page select
+2022-01-19 22:41:48,536  INFO [main] validpageStepDef:14 - booking detail shown 
+2022-01-19 22:41:50,263  INFO [main] validpageStepDef:14 - home page is clicked in page home page
+2022-01-19 22:42:17,722  INFO [main] validpageStepDef:14 - URL Opened
+2022-01-19 22:42:18,592  INFO [main] validpageStepDef:14 - Page opend with title Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
